@@ -2,7 +2,7 @@
 
 Je suis loulou310, et je suis en Terminale générale à Vannes. 
 
-Disclaimer : La plupart des projets sur lesquels je travaille actuellements on été déplacés sur [framagit](https://framagit.org/loulou310)
+Disclaimer : La plupart des projets sur lesquels je travaille actuellement on été déplacés sur [framagit](https://framagit.org/loulou310)
 
 #### Instant flex
 
